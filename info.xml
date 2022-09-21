@@ -3,19 +3,19 @@
   <name>Apple Login Plugin</name>
   <author>Yaron Helfer</author>
 <!-- Feel free to include your github repo here -->
-  <website>https://yaronhelfer.com</website>
+  <website>https://github.com/yaroshhh/SignInWithAppleForUserSpice</website>
 
 <!-- the version of the plugin iteself -->
   <version>1.0.0</version>
 
 <!-- release date of THIS version -->
-  <release>September 14, 2022</release>
+  <release>September 20, 2022</release>
 
 <!-- the last version of UserSpice you tested the plugin with -->
-  <tested>5.2.3</tested>
+  <tested>5.4.4</tested>
 
 <!-- What does your plugin do? -->
-  <description>This plugin adds Apple login feature into UserSpice 5.2.x login page.</description>
+  <description>This plugin adds sign in with Apple button into the login page of UserSpice version 5.4.4 or later.</description>
 
   <!-- This is the launch button in the plugin manager. If it is blank or missing, Configure Plugin will show up. -->
     <button>Apple Login Plugin</button>
