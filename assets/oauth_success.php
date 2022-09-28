@@ -24,11 +24,12 @@ if(!$apple_user->email_verified){
 	Redirect::to('/?err='.urlencode(lang('JOIN_APPLE_EMAIL_NOT_VERIFIED')));
 }
 
+/*
 // validate private email address 
 if(!empty($apple_user->is_private_email)){
 	Redirect::to('/?err='.urlencode(lang('JOIN_APPLE_PRIVATE_EMAIL')));
 }
-
+*/
 
 // DEBUG
 //die('<code>'.json_encode($apple_user, JSON_PRETTY_PRINT).'</code>');
