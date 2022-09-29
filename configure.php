@@ -65,6 +65,6 @@ $token = Token::generate();
       <input type="text" class="form-control ajxtxt" data-desc="Callback URL"  name="apple_callback" id="apple_callback" value="<?=$settings->apple_callback?>">
     </div>
 
-This plugin made by <a href="https://yaronhelfer.com/" target="_blank">Yaron Helfer</a>.
+This plugin made by <a href="https://yaronhelfer.com/" target="_blank" style="color:blue">Yaron Helfer</a>.
 </div>
 </div>
