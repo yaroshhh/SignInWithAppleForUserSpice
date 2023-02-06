@@ -1,6 +1,3 @@
-.vs-code
-.vscode
 vendor
-conposer.phar
 composer.lock
-temp
+error_log
